@@ -22,8 +22,8 @@ op.add_argument("window-size=720,720")
 driver = uc.Chrome(chrome_options=op, enable_cdp_events=True)
 helper_fn = helper_funcs.HelperFn(driver)
 
-MAIL = "lightninghyperblaze456@gmail.com"
-PASSWORD = "GLove1052!!"
+MAIL = ""
+PASSWORD = ""
 
 
 driver.get('https://chat.openai.com/c/40f865f5-b4d8-43b6-95bf-708081531aac')
