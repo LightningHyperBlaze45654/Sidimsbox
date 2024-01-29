@@ -1,3 +1,4 @@
+*.ext filter=lfs diff=lfs merge=lfs -text
 arona-assistant/Library/PackageCache/** filter=lfs diff=lfs merge=lfs -text
 arona-assistant/Library/ArtifactDB/** filter=lfs diff=lfs merge=lfs -text
 arona-assistant/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text

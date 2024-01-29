@@ -1,0 +1,19 @@
+Using template 'E:/Unity_editor/2021.3.32f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\UnityManifest.xml'
+
+android.hardware.vulkan.version was added because:
+	One of the graphics devices was Vulkan
+android.software.home_screen was added because:
+	Target Devices was set to PhonesTabletsAndTVDevicesOnly
+android.permission.INTERNET was added because:
+	UnityEngine.Networking was present in:
+		HuggingFaceAPI-FeaturesChecked.txt
+	UnityEngine.Network was present in:
+		HuggingFaceAPI-FeaturesChecked.txt
+	UnityEngine.Networking.UnityWebRequest was present in:
+		HuggingFaceAPI-FeaturesChecked.txt
+	Development player
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		UnityEngine.UI-FeaturesChecked.txt
