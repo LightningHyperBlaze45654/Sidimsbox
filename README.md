@@ -1,4 +1,12 @@
-# Sidims Box - A Implementation between MS-iSTFT-VITS and GPTs, UI made with Unity.
+# Sidims Box - A Implementation between MS-iSTFT-VITS and GPTs, UI made with Unity
+
+
+
+# SOON UPDATE WITH USING OTHER METHODS
+hold up yall
+
+
+.
 Before actually downloading and try to use this, this project is SERVERLY based on my **OWN COMPUTER**, You would NOT want to run this without any adjustments.
 This project isn't even finished yet, so don't use this entire project. It is not recommended.
 
